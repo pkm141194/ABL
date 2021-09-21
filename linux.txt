@@ -1,0 +1,87 @@
+rm -rf Amazon.py
+cp -r /home/ubuntu/Amazon.py /root/amazon/
+cp -r /home/ubuntu/Becex.py /root/amazon/
+ctrl A D 
+[detached from 704816.pts-0.ip-172-31-4-107]
+(venv) root@ip-172-31-4-107:~/amazon#
+
+
+import urllib.request
+  
+x = urllib.request.urlopen('https://www.google.com/')
+print(x.read())
+
+pip3 install -r req*
+sudo su -
+ cd /root/rpa/
+cd ama*
+virtualenv venv
+source venv/bin/activate
+python3 ama*
+ cp -r /root/amazon/ /root/amazon/ubuntu/rpa/
+(venv) root@ip-172-31-4-107:~/amazon# rm -rf Becex.py
+
+(venv) root@ip-172-31-4-107:~/amazon# rm -rf Main1.py
+ cp -r /root/amazon/ /home/ubuntu/
+  cp -r /root/amazon/output/ /home/ubuntu/
+   cp -r /root/amazon/input/ /home/ubuntu/
+cp -r /home/ubuntu/Amazon.py /root/amazon/
+rm -rf Becex.py
+
+cp -r /root/amazon/ /ubuntu/rpa/
+cp -r Ebay.py /root/amazon//ubuntu/rpa/
+ubuntu@ip-172-31-4-107:~$ sudo su -
+root@ip-172-31-4-107:~#
+root@ip-172-31-4-107:~# ls
+XtremeScrapy  snap
+root@ip-172-31-4-107:~# cd Xtr*
+root@ip-172-31-4-107:~/XtremeScrapy#
+root@ip-172-31-4-107:~/XtremeScrapy# ls
+API           __pycache__         catch.py         mobileciti.py
+Amazon.py     amazon_scrape.xlsx  ebay.py          requirements.txt
+Functions.py  amazonfinal.py      geckodriver.exe  scrape_amazon.py
+README.md     becex.py            kogan.py         venv
+root@ip-172-31-4-107:~/XtremeScrapy#
+
+root@ip-172-31-4-107:~/XtremeScrapy# git clone https://github.com/tworobin/XtremeScrapy.git
+Cloning into 'XtremeScrapy'...
+Username for 'https://github.com': tworobin
+Password for 'https://tworobin@github.com':
+remote: Enumerating objects: 30, done.
+remote: Counting objects: 100% (30/30), done.
+remote: Compressing objects: 100% (27/27), done.
+remote: Total 30 (delta 11), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (30/30), 1.46 MiB | 1.30 MiB/s, done.
+root@ip-172-31-4-107:~/XtremeScrapy# virtualenv venv
+root@ip-172-31-4-107:~/XtremeScrapy# virtualenv venv
+created virtual environment CPython3.8.5.final.0-64 in 419ms
+  creator CPython3Posix(dest=/root/XtremeScrapy/venv, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/root/.local/share/virtualenv)
+    added seed packages: appdirs==1.4.4, beautifulsoup4==4.9.3, bs4==0.0.1, certifi==2020.12.5, chardet==4.0.0, click==7.1.2, cssselect==1.1.0, fake_useragent==0.1.11, html5lib==1.1, idna==2.10, joblib==1.0.1, lxml==4.6.2, nltk==3.5, numpy==1.20.1, parse==1.19.0, pip==21.0.1, pyee==8.1.0, pyppeteer==0.2.5, pyquery==1.4.3, regex==2020.11.13, requests==2.25.1, requests_html==0.10.0, scikit_learn==0.24.1, scipy==1.6.0, selenium==3.141.0, setuptools==52.0.0, six==1.15.0, soupsieve==2.2, threadpoolctl==2.1.0, tqdm==4.56.2, urllib3==1.26.3, w3lib==1.22.0, webencodings==0.5.1, websockets==8.1, wheel==0.36.2
+  activators BashActivator,CShellActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator
+root@ip-172-31-4-107:~/XtremeScrapy# source venv/in/activate
+-bash: venv/in/activate: No such file or directory
+root@ip-172-31-4-107:~/XtremeScrapy# source venv/bin/activate
+(venv) root@ip-172-31-4-107:~/XtremeScrapy#
+
+root@ip-172-31-4-107:~/XtremeScrapy# source venv/bin/activate
+(venv) root@ip-172-31-4-107:~/XtremeScrapy# ^C
+(venv) root@ip-172-31-4-107:~/XtremeScrapy# python3 Amaz*
+Data not available..
+Data not available..
+Data not available..
+Data not available..
+
+START BOT
+root@ip-172-31-4-107:~/amazon# ls
+Amazon.py  Functions.py  README.md  __pycache__  requirements.txt  venv
+root@ip-172-31-4-107:~/amazon# virtualenv venv
+created virtual environment CPython3.9.0.final.0-64 in 151ms
+  creator CPython3Posix(dest=/root/amazon/venv, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/root/.local/share/virtualenv)
+    added seed packages: appdirs==1.4.4, beautifulsoup4==4.9.3, bs4==0.0.1, certifi==2020.12.5, chardet==4.0.0, click==7.1.2, cssselect==1.1.0, fake_useragent==0.1.11, html5lib==1.1, idna==2.10, joblib==1.0.1, lxml==4.6.2, nltk==3.5, numpy==1.20.1, parse==1.19.0, pip==21.0.1, pyee==8.1.0, pyppeteer==0.2.5, pyquery==1.4.3, regex==2020.11.13, requests==2.25.1, requests_html==0.10.0, scikit_learn==0.24.1, scipy==1.6.0, selenium==3.141.0, setuptools==52.0.0, six==1.15.0, soupsieve==2.2, threadpoolctl==2.1.0, tqdm==4.56.2, urllib3==1.26.3, w3lib==1.22.0, webencodings==0.5.1, websockets==8.1, wheel==0.36.2
+  activators BashActivator,CShellActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator
+root@ip-172-31-4-107:~/amazon# source venv/bin/activate
+(venv) root@ip-172-31-4-107:~/amazon# python3 Amaz*
+8 Data Found for: Samsung Galaxy Note 20 Ultra 256GB Mystic Bronze
+Getting data from link 1 of 8...
